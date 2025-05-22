@@ -1,0 +1,27 @@
+{
+  "name": "pppprrrjjjcccttt",
+  "version": "1.0.0",
+  "description": "StartupHub is a comprehensive platform designed to connect and empower the AI and technology startup ecosystem. It provides tools for startups, investors, and industry professionals to discover, connect, and collaborate in the rapidly evolving tech landscape.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinmayguptha/Start_up_Hub_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinmayguptha/Start_up_Hub_App/issues"
+  },
+  "homepage": "https://github.com/Chinmayguptha/Start_up_Hub_App#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
